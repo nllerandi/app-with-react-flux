@@ -1,3 +1,3 @@
 # app-with-react-flux
 
-<a href='http://nyackmusic.com' target='_blank'>Check it out here</a>
+<a href='#' target='_blank'>Check it out here (not yet)</a>
