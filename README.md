@@ -1,3 +1,3 @@
 # app-with-react-flux
 
-Check it out here
+<a href='#'>Check it out here</a>
