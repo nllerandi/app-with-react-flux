@@ -1,3 +1,3 @@
 # app-with-react-flux
 
-<a href='https://nyackmusic.com'>Check it out here</a>
+<a href='http://nyackmusic.com'>Check it out here</a>
